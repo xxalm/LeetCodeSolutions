@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/xxalm/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/xxalm/LeetCodeSolutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xxalm/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0540-single-element-in-a-sorted-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/xxalm/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
