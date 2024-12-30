@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/xxalm/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/xxalm/LeetCodeSolutions/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/xxalm/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/xxalm/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/xxalm/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xxalm/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/xxalm/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/xxalm/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/xxalm/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/xxalm/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
