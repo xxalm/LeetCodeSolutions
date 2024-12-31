@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/xxalm/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/xxalm/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/xxalm/LeetCodeSolutions/tree/master/0135-candy) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/xxalm/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/xxalm/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/xxalm/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
