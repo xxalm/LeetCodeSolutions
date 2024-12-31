@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/xxalm/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/xxalm/LeetCodeSolutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/xxalm/LeetCodeSolutions/tree/master/0135-candy) |
+| [0164-maximum-gap](https://github.com/xxalm/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/xxalm/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/xxalm/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/xxalm/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/xxalm/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/xxalm/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/xxalm/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/xxalm/LeetCodeSolutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/xxalm/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
