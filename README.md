@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/xxalm/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/xxalm/LeetCodeSolutions/tree/master/0134-gas-station) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/xxalm/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/xxalm/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/xxalm/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/xxalm/LeetCodeSolutions/tree/master/0169-majority-element) |
